@@ -168,7 +168,7 @@ const config: SiteConfig = {
   // IMPORTANT: Update giscus.json in the root of the project with your own website URL
   // If you don't want to use Giscus, set this to undefined.
   giscus: {
-    repo: 'eedg-l/edgl.dev',
+    repo: 'edg-l/edgl.dev',
     repoId: 'R_kgDOPlXzLw',
     category: 'Blog',
     categoryId: 'DIC_kwDOPlXzL84CurKS',
